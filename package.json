@@ -1,5 +1,16 @@
 {
   "name": "@btjanaka/js-algorithms",
   "version": "0.0.1",
-  "main": "./lib/index.js"
+  "description": "Implementations of algorithms in JS",
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/btjanaka/js-algorithms.git"
+  },
+  "author": "Bryon Tjanaka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/btjanaka/js-algorithms/issues"
+  },
+  "homepage": "https://github.com/btjanaka/js-algorithms#readme"
 }
