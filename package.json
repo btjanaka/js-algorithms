@@ -1,0 +1,5 @@
+{
+  "name": "@btjanaka/js-algorithms",
+  "version": "0.0.0",
+  "main": "./lib/index.js"
+}
