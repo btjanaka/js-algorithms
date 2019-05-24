@@ -13,7 +13,5 @@
     "url": "https://github.com/btjanaka/js-algorithms/issues"
   },
   "homepage": "https://github.com/btjanaka/js-algorithms#readme",
-  "dependencies": {
-    "jsbi": "^2.0.5"
-  }
+  "dependencies": {}
 }
