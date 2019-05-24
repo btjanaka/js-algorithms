@@ -1,6 +1,6 @@
 {
   "name": "@btjanaka/js-algorithms",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Implementations of algorithms in JS",
   "main": "./lib/index.js",
   "repository": {
@@ -12,5 +12,8 @@
   "bugs": {
     "url": "https://github.com/btjanaka/js-algorithms/issues"
   },
-  "homepage": "https://github.com/btjanaka/js-algorithms#readme"
+  "homepage": "https://github.com/btjanaka/js-algorithms#readme",
+  "dependencies": {
+    "jsbi": "^2.0.5"
+  }
 }
